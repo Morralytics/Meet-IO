@@ -58,7 +58,7 @@ Wireframe: Figma <br>
 Fab Team 5
 
 Patrick Mengler https://github.com/PMengler <br>
-Nick Morris https://github.com/Volexity21 <br>
+Nick Morris https://github.com/Morralytics <br>
 Ashleigh https://github.com/aashpaash <br> 
 Helen Evans https://github.com/HelenLEvans <br> 
 John Nelson https://github.com/fjnelson 
