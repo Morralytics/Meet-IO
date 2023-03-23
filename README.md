@@ -34,7 +34,7 @@ As a user I want to be able to share my schedule and communicate with my social 
   - [Developers](#developers)
   - [License](#license)
 
-## Installation
+## Installation 
 
 Github repository: https://github.com/PMengler/Meet-IO <br />
 Heroku deployment: https://meetio.herokuapp.com/
